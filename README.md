@@ -1,12 +1,12 @@
 <H1> </a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Microsoft Power BI" width="30" height="30"> Diversity & Inclusion | 
 
 ## Table of contents
-- [Problem Statement](https://github.com/Aryan-chand/PowerBI/blob/main/Diversity%20&%20Inclusion%20Analysis/README.md#problem-statement)
-- [Data Sourcing](https://github.com/Aryan-chand/PowerBI/blob/main/Diversity%20&%20Inclusion%20Analysis/README.md#data-sourcing)
-- [Data Preparation](https://github.com/Aryan-chand/PowerBI/blob/main/Diversity%20&%20Inclusion%20Analysis/README.md#data-preparation)
-- [Data Visualization](https://github.com/Aryan-chand/PowerBI/blob/main/Diversity%20&%20Inclusion%20Analysis/README.md#data-visualization)
-- [Analysis and Insights](https://github.com/Aryan-chand/PowerBI/blob/main/Diversity%20&%20Inclusion%20Analysis/README.md#analysis-and-insight)
-- [Shareable Link](https://github.com/Aryan-chand/PowerBI/blob/main/Diversity%20&%20Inclusion%20Analysis/README.md#shareable-link)
+- [Problem Statement](https://github.com/Aryan-chand/Diversity-Inclusion-Analysis-For-HR/blob/main/README.md#problem-statement)
+- [Data Sourcing](https://github.com/Aryan-chand/Diversity-Inclusion-Analysis-For-HR/blob/main/README.md#data-sourcing)
+- [Data Preparation](https://github.com/Aryan-chand/Diversity-Inclusion-Analysis-For-HR/blob/main/README.md#data-preparation)
+- [Data Visualization](https://github.com/Aryan-chand/Diversity-Inclusion-Analysis-For-HR/blob/main/README.md#data-visualization)
+- [Analysis and Insights](https://github.com/Aryan-chand/Diversity-Inclusion-Analysis-For-HR/blob/main/README.md#analysis-and-insight)
+- [Shareable Link](https://github.com/Aryan-chand/Diversity-Inclusion-Analysis-For-HR/blob/main/README.md#shareable-link)
 
 # Problem Statement
 
