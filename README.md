@@ -88,8 +88,8 @@ Data Cleaning for the dataset was done in Power Query as follows:
 
 Data visualization for the dataset was done in Microsoft Power BI Desktop, the dashboard includes 5 main KPIs:
 
-![detail](https://github.com/Aryan-chand/PowerBI/blob/main/Assets/Diversity%26Inclusion_pg1.png)
-![detail](https://github.com/Aryan-chand/PowerBI/blob/main/Assets/Diversity%26Inclusion_pg2.png)
+![detail](https://github.com/Aryan-chand/Diversity-Inclusion-Analysis-For-HR/blob/main/Diversity%26Inclusion_pg1.png)
+![detail](https://github.com/Aryan-chand/Diversity-Inclusion-Analysis-For-HR/blob/main/Diversity%26Inclusion_pg2.png)
 
 ### Key Performance Indicators and Metrics:
 
